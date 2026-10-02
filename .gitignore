@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Database file (created automatically when the app runs)
+*.db
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
